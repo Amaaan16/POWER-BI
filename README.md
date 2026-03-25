@@ -1,3 +1,5 @@
 # POWER-BI
 
 AdventureWorks Database is a Microsoft product sample for an online transaction processing (OLTP) database. The AdventureWorks Database supports a fictitious, multinational manufacturing company called Adventure Works Cycles. Analyzed data of this fictitious company by connecting and shaping data in Power Query, built a relational model and added calculate fields with DAX measures. Finally, created an interactive Dashboard for data visualization of the performance of the company.
+
+Designed an interactive Power BI dashboard using Adventure Works data, performing data transformation with Power Query and building a star schema data model for efficient analysis. Developed advanced DAX measures to track KPIs such as revenue, profit margin, and sales growth, uncovering trends like ~15–20% higher sales in specific regions and seasonal demand patterns. Enabled data-driven decision making by identifying top-performing products and underperforming segments. Provided actionable insights including inventory optimization, targeted marketing strategies, and regional sales focus to improve overall profitability.
